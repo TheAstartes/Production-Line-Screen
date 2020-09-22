@@ -1,0 +1,69 @@
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.deps.json
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.runtimeconfig.json
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.runtimeconfig.dev.json
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.dll
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.csprojAssemblyReference.cache
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.csproj.CoreCompileInputs.cache
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorAssemblyInfo.cache
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorAssemblyInfo.cs
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.AssemblyInfoInputs.cache
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.AssemblyInfo.cs
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorTargetAssemblyInfo.cache
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.pdb
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.dll
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.pdb
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.Views.dll
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.Views.pdb
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.TagHelpers.input.cache
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.TagHelpers.output.cache
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorCoreGenerate.cache
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorTargetAssemblyInfo.cs
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.Views.pdb
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.csproj.CopyComplete
+C:\Users\helio\source\repos\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.deps.json
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.runtimeconfig.json
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.runtimeconfig.dev.json
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.dll
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.pdb
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.Views.dll
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.Views.pdb
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.csprojAssemblyReference.cache
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.csproj.CoreCompileInputs.cache
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorAssemblyInfo.cache
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorAssemblyInfo.cs
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.AssemblyInfoInputs.cache
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.AssemblyInfo.cs
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.TagHelpers.input.cache
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.TagHelpers.output.cache
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorCoreGenerate.cache
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorTargetAssemblyInfo.cache
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorTargetAssemblyInfo.cs
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.Views.pdb
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.dll
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.pdb
+C:\Users\bostatkiewicz\source\repos\MY\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.csproj.CopyComplete
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.csprojAssemblyReference.cache
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.csproj.CoreCompileInputs.cache
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorAssemblyInfo.cache
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorAssemblyInfo.cs
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.AssemblyInfoInputs.cache
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.AssemblyInfo.cs
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.dll
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.pdb
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.TagHelpers.input.cache
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.TagHelpers.output.cache
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorCoreGenerate.cache
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorTargetAssemblyInfo.cache
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.RazorTargetAssemblyInfo.cs
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.deps.json
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.runtimeconfig.json
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.runtimeconfig.dev.json
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.dll
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.pdb
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.Views.dll
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\bin\Debug\netcoreapp2.1\TOPS v1.0.Views.pdb
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.Views.pdb
+C:\Users\helio\Desktop\NewProgram\TOPS v1_0\TOPS v1.0\TOPS v1.0\obj\Debug\netcoreapp2.1\TOPS v1.0.csproj.CopyComplete

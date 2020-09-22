@@ -1,0 +1,517 @@
+﻿@model Web1.HomeVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="refresh" content="60">
+    <meta charset="utf-8" />
+    <style>
+        body {
+            margin: 0 0;
+            background-color: black;
+        }
+
+        .canvas {
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+    <canvas class="canvas"></canvas>
+    <script>
+        var canvas = document.querySelector('canvas');
+
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        var c = canvas.getContext('2d');
+
+        today = new Date();
+        var m = today.getMinutes();
+        var h = today.getHours();
+        var s = today.getHours() - 8;
+        var se = today.getHours() - 7;
+        var si = today.getHours() - 6;
+        var five = today.getHours() - 5;
+        var four = today.getHours() - 4;
+        var three = today.getHours() - 3;
+        var two = today.getHours() - 2;
+        var one = today.getHours() - 1;
+
+
+        var red = 'rgba(255,0,0,1)';
+        //orange is actually light blue !
+        var orange = 'rgba(0, 255, 255,1)';
+        var green = 'rgba(0,255,0,1)';
+        var blue = 'rgba(0,0,255,1)';
+        var white = 'rgba(255, 255, 255,1)';
+        var black = 'rgba(0, 0, 0,1)';
+        var fill = '';
+
+        var y = 50;
+        var y2 = 50;
+        var y3 = 80;
+
+
+        for (var i = 0; i < 13; i++) {
+            var x = 150;
+            var x2 = 150;
+            @*for (var z = 0; z < 240; z++) {
+
+
+                switch (@Model.color_x[z]) {
+                    case 10:
+                        fill = green;
+                        break;
+                    case 1:
+                        fill = red;
+                        break;
+                    case 2:
+                        fill = orange;
+                        break;
+                    case 3:
+                        fill = blue;
+                        break;
+                }
+
+               c.fillRect(x, y, 5, 20;
+
+               x = x + 5;
+            }*@
+            switch (i)
+            {
+                case 0:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x[i])
+                    {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 1:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x2[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x2[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 2:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x3[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x3[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 3:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x4[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x4[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 4:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x5[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x5[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 5:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x6[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x6[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 6:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x7[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x7[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 7:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x8[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x8[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 8:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x9[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x9[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 9:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x10[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x10[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 10:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x11[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x11[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 11:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+                    switch (@Model.color_x12[i]) {
+                        case 10:
+                            fill = green;
+                            break;
+                        case 1:
+                            fill = red;
+                            break;
+                        case 2:
+                            fill = orange;
+                            break;
+                        case 3:
+                            fill = blue;
+                            break;
+                        case 0:
+                            fill = black;
+                    }
+
+
+                    c.fillStyle = fill;
+                    c.fillRect(@Model.position_x12[i], y, 2, 20);
+            </text>
+            }
+                    break;
+                case 12:
+                      @for(int i=0;i<480;i++)
+            {
+              <text>
+            switch (@Model.color_x13[i])
+             {
+                    case 10:
+                        fill = green;
+                        break;
+                    case 1:
+                        fill = red;
+                        break;
+                    case 2:
+                        fill = orange;
+                        break;
+                    case 3:
+                        fill = blue;
+                    break;
+                case 0:
+                    fill = black;
+             }
+
+
+            c.fillStyle = fill;
+            c.fillRect(@Model.position_x13[i], y, 2, 20);
+            </text>
+            }
+                //Tu jest switch
+            }
+
+
+
+
+
+                        y = y+55;
+        }
+        var y_box = 50;
+
+        for (var z = 0; z < 13; z++) {
+            for (var i = 0; i < 9; i++) {
+                c.fillStyle = white;
+                c.fillRect(x2, y2, 2, 20);
+                
+                x2 = x2 + 120;
+
+
+
+
+            }
+            for (var i = 0; i < 1; i++) {
+                c.fillRect(151, y_box, 960, 1);
+                y_box = y_box + 20;
+                c.fillRect(151, y_box, 960, 1);
+            }
+
+            
+
+            y_box = y_box + 35;
+            c.fillText((s + ":" + m), 143, y3);
+            c.fillText((se + ":" + m), 263, y3);
+            c.fillText((si + ":" + m), 383, y3);
+            c.fillText((five + ":" + m), 503, y3);
+            c.fillText((four + ":" + m), 623, y3);
+            c.fillText((three + ":" + m), 743, y3);
+            c.fillText((two + ":" + m), 863, y3);
+            c.fillText((one + ":" + m), 983, y3);
+            c.fillText((h + ":" + m), 1103, y3);
+            y3 = y3 + 55;
+            x2 = 150;
+            y2 = y2 + 55;
+        }
+
+        c.font = "15px Arial";
+        c.fillStyle = "red";
+        c.fillText("Machine1", 40, 70);
+        c.fillText("Machine2", 30, 110);
+        c.fillText("Machine3", 30, 170);
+        c.fillText("Machine4", 30, 230);
+        c.fillText("Machine5", 30, 290);
+        c.fillText("Machine6", 30, 340);
+        c.fillText("Machine7",30, 400);
+        c.fillText("Machine8", 30, 450);
+        c.fillText("Machine9", 30, 510);
+        c.fillText("Machine10", 30, 570);
+        c.fillText("Machine11", 30, 620);
+        c.fillText("Machine12", 30, 680);
+        c.fillText("Machine13r", 30, 730);
+        c.fillStyle = '#fcfcff';
+        c.fillText("Production Lines", 20, 30);
+        c.fillText("Production", 200, 30);
+        c.fillText("Breakdown", 400, 30);
+        c.fillText("Planned stop", 600, 30);
+        c.fillText("Changeover", 800, 30);
+        c.fillStyle = green;
+        c.fillRect(180, 20, 10, 10);
+        c.fillStyle = red;
+        c.fillRect(380, 20, 10, 10);
+        c.fillStyle = blue;
+        c.fillRect(580, 20, 10, 10);
+        c.fillStyle = 'rgba(0, 255, 250,1)';
+        c.fillRect(780, 20, 10, 10);
+        c.fillStyle = white;
+       
+
+
+    </script>
+</body>
+</html>
+
