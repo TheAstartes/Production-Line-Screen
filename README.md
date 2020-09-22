@@ -19,6 +19,8 @@ This small [ASP.NET MVC] program helps visualising and monitoring production lin
 
 User has an option to pick a time and frequency at which program will create a text file under chosen directory,the file contains data [Name of productionline / Registry time entry / Status].
 
+![alt text](https://user-images.githubusercontent.com/46090816/93887344-e00f5400-fce6-11ea-832c-62881d342b34.jpg)
+
 
 ### Built With
 *ASP.NET Core 2.1
