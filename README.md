@@ -1,12 +1,5 @@
 # Production-Line-Screen
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Acknowledgements](#acknowledgements)
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
